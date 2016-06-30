@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QuickSlideBar">
+        <attr name="textColor" format="color|reference"/>
+        <attr name="textColorChoose" format="color|reference"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textSizeChoose" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="QuickSlideBarTip">
+        <attr name="tipTextColor" format="color|reference"/>
+        <attr name="tipTextSize" format="dimension"/>
+        <attr name="tipText" format="string"/>
+    </declare-styleable>
+</resources>
