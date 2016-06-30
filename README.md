@@ -2,7 +2,7 @@
 右侧QuickSlideBar的高度根据Letter的个数计算，非屏幕的高度，可自行传入要显示的Letter集合。
 
 ##效果图：
-![](https://github.com/yanxinit/QuickSlideBar/blob/master/Demo.png)
+![](https://github.com/yanxinit/QuickSlideBar/blob/master/Demo.gif)
 
 ##使用：
 ```
